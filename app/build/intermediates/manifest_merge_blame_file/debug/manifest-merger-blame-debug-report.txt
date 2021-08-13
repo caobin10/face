@@ -1,0 +1,61 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.luxand.facerecognition"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="25" />
+9-->D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml
+10
+11    <uses-feature android:name="android.hardware.camera" />
+11-->D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:5:5-59
+11-->D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:5:19-57
+12    <uses-feature
+12-->D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:6:5-95
+13        android:name="android.hardware.camera.autofocus"
+13-->D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:6:19-67
+14        android:required="false" />
+14-->D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:6:68-92
+15
+16    <uses-permission android:name="android.permission.CAMERA" />
+16-->D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:7:5-64
+16-->D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:7:22-62
+17
+18    <!-- <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> -->
+19    <application
+19-->D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:10:5-25:19
+20        android:allowBackup="true"
+20-->D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:11:9-35
+21        android:debuggable="true"
+22        android:icon="@drawable/ic_launcher"
+22-->D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:12:9-45
+23        android:label="@string/app_name"
+23-->D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:13:9-41
+24        android:supportsRtl="true"
+24-->D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:14:9-35
+25        android:testOnly="true"
+26        android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar.Fullscreen" >
+26-->D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:15:9-88
+27        <activity
+27-->D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:16:9-24:20
+28            android:name="com.luxand.facerecognition.MainActivity"
+28-->D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:16:19-47
+29            android:screenOrientation="portrait" >
+29-->D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:17:13-49
+30            <intent-filter>
+30-->D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:19:13-23:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:20:17-69
+31-->D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:20:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:22:17-77
+33-->D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:22:27-74
+34            </intent-filter>
+35        </activity>
+36    </application>
+37
+38</manifest>

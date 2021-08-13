@@ -1,0 +1,126 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\c7595eb13b704f08e6092b7e9dcde643\appcompat-v7-25.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\4967144cc18e13aea5e1de908a4a5b59\support-v4-25.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\dc6631e92d3500104f8b1fd265bc2a0a\animated-vector-drawable-25.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\7da6965d9e580d2e85715da2dbe84918\support-vector-drawable-25.0.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\53b9f3f88c9e08ee702f386a6359427a\support-fragment-25.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\7c68549a0bed29749e146a4af2fd23f6\support-media-compat-25.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\f4e9bc4547af1d20713705d63dc437b7\support-core-utils-25.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\7423e3abf279f62b47ebc819cc37cf46\support-core-ui-25.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\f1dc46986bb7884ca86d18bdc349aa1c\support-compat-25.0.1\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:5:5-59
+	android:name
+		ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:5:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:6:5-95
+	android:required
+		ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:6:68-92
+	android:name
+		ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:6:19-67
+uses-permission#android.permission.CAMERA
+ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:7:5-64
+	android:name
+		ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:7:22-62
+application
+ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:10:5-25:19
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\c7595eb13b704f08e6092b7e9dcde643\appcompat-v7-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\c7595eb13b704f08e6092b7e9dcde643\appcompat-v7-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\4967144cc18e13aea5e1de908a4a5b59\support-v4-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\4967144cc18e13aea5e1de908a4a5b59\support-v4-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\dc6631e92d3500104f8b1fd265bc2a0a\animated-vector-drawable-25.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\dc6631e92d3500104f8b1fd265bc2a0a\animated-vector-drawable-25.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\7da6965d9e580d2e85715da2dbe84918\support-vector-drawable-25.0.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\7da6965d9e580d2e85715da2dbe84918\support-vector-drawable-25.0.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\53b9f3f88c9e08ee702f386a6359427a\support-fragment-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\53b9f3f88c9e08ee702f386a6359427a\support-fragment-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\7c68549a0bed29749e146a4af2fd23f6\support-media-compat-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\7c68549a0bed29749e146a4af2fd23f6\support-media-compat-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\f4e9bc4547af1d20713705d63dc437b7\support-core-utils-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\f4e9bc4547af1d20713705d63dc437b7\support-core-utils-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\7423e3abf279f62b47ebc819cc37cf46\support-core-ui-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\7423e3abf279f62b47ebc819cc37cf46\support-core-ui-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\f1dc46986bb7884ca86d18bdc349aa1c\support-compat-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\f1dc46986bb7884ca86d18bdc349aa1c\support-compat-25.0.1\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:15:9-88
+activity#com.luxand.facerecognition.MainActivity
+ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:screenOrientation
+		ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:17:13-49
+	android:name
+		ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\c7595eb13b704f08e6092b7e9dcde643\appcompat-v7-25.0.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\c7595eb13b704f08e6092b7e9dcde643\appcompat-v7-25.0.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\4967144cc18e13aea5e1de908a4a5b59\support-v4-25.0.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\4967144cc18e13aea5e1de908a4a5b59\support-v4-25.0.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\dc6631e92d3500104f8b1fd265bc2a0a\animated-vector-drawable-25.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\dc6631e92d3500104f8b1fd265bc2a0a\animated-vector-drawable-25.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\7da6965d9e580d2e85715da2dbe84918\support-vector-drawable-25.0.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\7da6965d9e580d2e85715da2dbe84918\support-vector-drawable-25.0.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\53b9f3f88c9e08ee702f386a6359427a\support-fragment-25.0.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\53b9f3f88c9e08ee702f386a6359427a\support-fragment-25.0.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\7c68549a0bed29749e146a4af2fd23f6\support-media-compat-25.0.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\7c68549a0bed29749e146a4af2fd23f6\support-media-compat-25.0.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\f4e9bc4547af1d20713705d63dc437b7\support-core-utils-25.0.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\f4e9bc4547af1d20713705d63dc437b7\support-core-utils-25.0.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\7423e3abf279f62b47ebc819cc37cf46\support-core-ui-25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\7423e3abf279f62b47ebc819cc37cf46\support-core-ui-25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\f1dc46986bb7884ca86d18bdc349aa1c\support-compat-25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\f1dc46986bb7884ca86d18bdc349aa1c\support-compat-25.0.1\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Administrator\.gradle\wrapper\dists\gradle-6.7.1-all\caches\transforms-2\files-2.1\c7595eb13b704f08e6092b7e9dcde643\appcompat-v7-25.0.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android2\LiveRecognition\LiveRecognition\app\src\main\AndroidManifest.xml

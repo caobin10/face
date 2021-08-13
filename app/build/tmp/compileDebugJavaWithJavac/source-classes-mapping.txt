@@ -1,0 +1,27 @@
+com/luxand/facerecognition/MainActivity.java
+ com.luxand.facerecognition.FaceRectangle
+ com.luxand.facerecognition.MainActivity
+ com.luxand.facerecognition.MainActivity$1
+ com.luxand.facerecognition.MainActivity$2
+ com.luxand.facerecognition.MainActivity$3
+ com.luxand.facerecognition.MainActivity$4
+ com.luxand.facerecognition.Preview
+ com.luxand.facerecognition.Preview$1
+ com.luxand.facerecognition.Preview$2
+ com.luxand.facerecognition.ProcessImageAndDrawResults
+ com.luxand.facerecognition.ProcessImageAndDrawResults$1
+ com.luxand.facerecognition.ProcessImageAndDrawResults$2
+com/luxand/facerecognition/BuildConfig.java
+ com.luxand.facerecognition.BuildConfig
+com/luxand/FSDK.java
+ com.luxand.FSDK
+ com.luxand.FSDK$FSDK_FaceTemplate
+ com.luxand.FSDK$FSDK_Features
+ com.luxand.FSDK$FSDK_IMAGEMODE
+ com.luxand.FSDK$FSDK_VIDEOCOMPRESSIONTYPE
+ com.luxand.FSDK$HCamera
+ com.luxand.FSDK$HImage
+ com.luxand.FSDK$HTracker
+ com.luxand.FSDK$TFacePosition
+ com.luxand.FSDK$TFaces
+ com.luxand.FSDK$TPoint
