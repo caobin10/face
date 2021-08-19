@@ -38,7 +38,7 @@ import android.view.ViewGroup.LayoutParams;
 import android.widget.EditText;
 
 public class MainActivity extends Activity implements OnClickListener {
-
+//
     private boolean mIsFailed = false;
     private Preview mPreview;
     private ProcessImageAndDrawResults mDraw;
