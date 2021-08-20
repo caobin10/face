@@ -39,7 +39,7 @@ import android.widget.EditText;
 
 public class MainActivity extends Activity implements OnClickListener {
 //
-    private boolean mIsFailed = false;
+    private boolean mIsFailed = false;//
     private Preview mPreview;
     private ProcessImageAndDrawResults mDraw;
     private final String database = "Memory50.dat";
